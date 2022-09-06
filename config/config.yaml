@@ -1,0 +1,13 @@
+
+app:
+  version: "1.0.0"
+  development_mode: true
+  name: "Togo"
+  env: "STAGING"
+  shutdown_sec: 0.1
+
+
+logger:
+  level: "debug"
+
+
